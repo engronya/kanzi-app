@@ -1,0 +1,6 @@
+{
+  "appId": "com.kanji.joyo",
+  "appName": "한자암기",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
